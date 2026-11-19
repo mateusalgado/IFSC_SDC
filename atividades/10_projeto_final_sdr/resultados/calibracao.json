@@ -1,0 +1,114 @@
+[
+  {
+    "horario": "2026-11-18T21:16:40-03:00",
+    "fc_hz": 915000000.0,
+    "portadora_esperada_hz": 915200000.0,
+    "fs_hz": 2400000.0,
+    "ganho_db": 29.7,
+    "ppm_inicial": 0,
+    "iteracoes": [
+      {
+        "ppm": 0,
+        "linha_hz": 148888.5,
+        "erro_hz": 51111.5,
+        "erro_ppm": 55.85,
+        "nivel_db": 46.0
+      },
+      {
+        "ppm": 56,
+        "linha_hz": 200316.8,
+        "erro_hz": -316.8,
+        "erro_ppm": -0.35,
+        "nivel_db": 41.6
+      }
+    ],
+    "ppm_final": 56,
+    "residuo_hz": [
+      323.0,
+      333.6,
+      336.9,
+      352.1,
+      370.5
+    ],
+    "residuo_medio_hz": 343.2,
+    "residuo_desvio_hz": 16.5
+  },
+  {
+    "horario": "2026-11-18T21:23:32-03:00",
+    "fc_hz": 915000000.0,
+    "portadora_esperada_hz": 915200000.0,
+    "fs_hz": 2400000.0,
+    "ganho_db": 29.7,
+    "ppm_inicial": 84,
+    "iteracoes": [
+      {
+        "ppm": 84,
+        "linha_hz": 198714.1,
+        "erro_hz": 1285.9,
+        "erro_ppm": 1.41,
+        "nivel_db": 27.6
+      },
+      {
+        "ppm": 85,
+        "linha_hz": 249371.2,
+        "erro_hz": -49371.2,
+        "erro_ppm": -53.95,
+        "nivel_db": 33.9
+      },
+      {
+        "ppm": 31,
+        "linha_hz": 149873.6,
+        "erro_hz": 50126.4,
+        "erro_ppm": 54.77,
+        "nivel_db": 29.9
+      },
+      {
+        "ppm": 86,
+        "linha_hz": 200414.5,
+        "erro_hz": -414.5,
+        "erro_ppm": -0.45,
+        "nivel_db": 32.5
+      }
+    ],
+    "ppm_final": 86,
+    "residuo_hz": [
+      409.7,
+      406.1,
+      404.6,
+      404.9,
+      404.9,
+      406.1,
+      406.1,
+      405.5
+    ],
+    "residuo_medio_hz": 406.0,
+    "residuo_desvio_hz": 1.5
+  },
+  {
+    "horario": "2026-11-18T21:27:17-03:00",
+    "fc_hz": 915000000.0,
+    "portadora_esperada_hz": 915200000.0,
+    "fs_hz": 2400000.0,
+    "ganho_db": 29.7,
+    "ppm_inicial": 86,
+    "iteracoes": [
+      {
+        "ppm": 86,
+        "linha_hz": 200412.7,
+        "erro_hz": -412.7,
+        "erro_ppm": -0.45,
+        "nivel_db": 38.2
+      }
+    ],
+    "ppm_final": 86,
+    "residuo_hz": [
+      351.6,
+      288.8,
+      250.1,
+      223.5,
+      205.4
+    ],
+    "residuo_medio_hz": 263.9,
+    "residuo_desvio_hz": 52.1
+  }
+]

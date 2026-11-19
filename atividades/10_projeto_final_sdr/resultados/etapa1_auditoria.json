@@ -1,0 +1,56 @@
+{
+  "amostras_por_bit_tx": 200.0,
+  "amostras_por_bit_rx": 204.8,
+  "rampa_amostras": 20,
+  "ref_21B": {
+    "bits": 229,
+    "periodo_ms": 22.9,
+    "eficiencia": 0.7336244541484717,
+    "goodput_max_bps": 7336.244541484716
+  },
+  "proj_21B": {
+    "bits": 253,
+    "eficiencia": 0.6640316205533597,
+    "goodput_max_10k_bps": 6640.316205533597,
+    "rb_min_para_10k_bps": 15059.52380952381,
+    "rb_min_para_10k_per1_bps": 15211.640211640211
+  },
+  "ref_128B": {
+    "bits": 1085,
+    "periodo_ms": 108.5,
+    "eficiencia": 0.943778801843318,
+    "goodput_max_bps": 9437.788018433179
+  },
+  "proj_128B": {
+    "bits": 1109,
+    "eficiencia": 0.9233543733092876,
+    "goodput_max_10k_bps": 9233.543733092876,
+    "rb_min_para_10k_bps": 10830.078125,
+    "rb_min_para_10k_per1_bps": 10939.472853535353
+  },
+  "ref_255B": {
+    "bits": 2101,
+    "periodo_ms": 210.10000000000002,
+    "eficiencia": 0.9709662065683008,
+    "goodput_max_bps": 9709.662065683007
+  },
+  "proj_255B": {
+    "bits": 2125,
+    "eficiencia": 0.96,
+    "goodput_max_10k_bps": 9600.0,
+    "rb_min_para_10k_bps": 10416.666666666666,
+    "rb_min_para_10k_per1_bps": 10521.88552188552
+  },
+  "fir_passa_banda_taps": 2705,
+  "fir_envoltoria_taps": 903,
+  "fir_passa_banda_atraso_ms": 0.66015625,
+  "molde_barker_amostras": 2665,
+  "barker_amostras_reais": 2662.4,
+  "hz_por_ppm_915_2": 915.2,
+  "tolerancia_offset_filtro_hz": 5000.0,
+  "deriva_bits_por_quadro_128B_50ppm": 0.05425,
+  "crc8_mensagem_referencia": "0x44",
+  "captura_rx_s": 0.512,
+  "quadros_por_captura_21B": 22.358078602620086,
+  "max_payload_busca_bytes": 64
+}

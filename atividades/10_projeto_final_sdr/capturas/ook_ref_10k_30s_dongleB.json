@@ -1,0 +1,11 @@
+{
+  "arquivo": "ook_ref_10k_30s_dongleB.cu8",
+  "fc_hz": 915000000.0,
+  "fs_hz": 2400000.0,
+  "ganho_pedido_db": 30.0,
+  "ganho_db": 29.7,
+  "ppm": 86,
+  "inicio": "2026-11-18T21:24:23.269-03:00",
+  "amostras": 72000000,
+  "duracao_real_s": 30.042
+}

@@ -1,0 +1,105 @@
+{
+  "parametros": {
+    "rb_bps": 10000.0,
+    "fs_hz": 2000000.0,
+    "amostras_por_bit": 200,
+    "semente": 20261,
+    "bits_por_bloco": 20000,
+    "blocos": 3,
+    "definicao_banda": "0,5% da potencia fora de cada lado"
+  },
+  "conferencia_bpsk_retangular": {
+    "banda99_teorica_continua_rb": 20.57,
+    "banda99_teorica_200_amostras_rb": 20.39
+  },
+  "variantes": [
+    {
+      "esquema": "ook",
+      "pulso": "ret",
+      "rotulo": "OOK (ret)",
+      "banda99_rb": 10.530598958333334,
+      "banda99_rb_min": 10.400390625,
+      "banda99_rb_max": 10.64453125,
+      "banda99_hz_a_10kbps": 105305.98958333334,
+      "largura_entre_nulos_teorica_rb": 2.0,
+      "papr_db": 3.044599545181277,
+      "rb_max_para_1mhz_bps": 94961.3601236476
+    },
+    {
+      "esquema": "ook",
+      "pulso": "rampa",
+      "rotulo": "OOK (rampa)",
+      "banda99_rb": 5.061848958333333,
+      "banda99_rb_min": 5.029296875,
+      "banda99_rb_max": 5.078125,
+      "banda99_hz_a_10kbps": 50618.48958333333,
+      "largura_entre_nulos_teorica_rb": null,
+      "papr_db": 3.0998033253503166,
+      "rb_max_para_1mhz_bps": 197556.27009646303
+    },
+    {
+      "esquema": "fsk",
+      "pulso": "ret",
+      "rotulo": "2-FSK (ret)",
+      "banda99_rb": 2.1484375,
+      "banda99_rb_min": 2.1484375,
+      "banda99_rb_max": 2.1484375,
+      "banda99_hz_a_10kbps": 21484.375,
+      "largura_entre_nulos_teorica_rb": 3.0,
+      "papr_db": 1.928654933106574e-15,
+      "rb_max_para_1mhz_bps": 465454.54545454547
+    },
+    {
+      "esquema": "fsk",
+      "pulso": "gauss",
+      "rotulo": "2-FSK (gauss)",
+      "banda99_rb": 1.66015625,
+      "banda99_rb_min": 1.66015625,
+      "banda99_rb_max": 1.66015625,
+      "banda99_hz_a_10kbps": 16601.5625,
+      "largura_entre_nulos_teorica_rb": null,
+      "papr_db": 1.928654933106574e-15,
+      "rb_max_para_1mhz_bps": 602352.9411764706
+    },
+    {
+      "esquema": "dbpsk",
+      "pulso": "ret",
+      "rotulo": "DBPSK (ret)",
+      "banda99_rb": 19.775390625,
+      "banda99_rb_min": 19.43359375,
+      "banda99_rb_max": 20.263671875,
+      "banda99_hz_a_10kbps": 197753.90625,
+      "largura_entre_nulos_teorica_rb": 2.0,
+      "papr_db": 0.0,
+      "rb_max_para_1mhz_bps": 50567.9012345679
+    },
+    {
+      "esquema": "dbpsk",
+      "pulso": "rrc",
+      "rotulo": "DBPSK (rrc)",
+      "banda99_rb": 1.171875,
+      "banda99_rb_min": 1.171875,
+      "banda99_rb_max": 1.171875,
+      "banda99_hz_a_10kbps": 11718.75,
+      "largura_entre_nulos_teorica_rb": 1.35,
+      "papr_db": 4.064531592933514,
+      "rb_max_para_1mhz_bps": 853333.3333333334
+    }
+  ],
+  "constelacao": {
+    "ebn0_db": 10.0,
+    "bits_por_quadro": 1093,
+    "offset_hz": 300.0,
+    "rb_bps": 10000.0,
+    "giro_por_bit_graus": 10.799999999999999,
+    "bits_ate_90_graus": 8.333333333333334,
+    "voltas_por_quadro": 32.79,
+    "projecao_com_30_graus": 0.8660254037844387,
+    "erros_em_um_quadro": {
+      "awgn": 0,
+      "fase_30": 0,
+      "offset_sem_rastreio": 551,
+      "dbpsk_com_offset": 0
+    }
+  }
+}

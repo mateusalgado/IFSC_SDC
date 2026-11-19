@@ -1,0 +1,59 @@
+{
+  "captura": "ook_ref_10k_30s.cu8",
+  "captura_meta": {
+    "arquivo": "ook_ref_10k_30s.cu8",
+    "fc_hz": 915000000.0,
+    "fs_hz": 2400000.0,
+    "ganho_pedido_db": 30.0,
+    "ganho_db": 29.7,
+    "ppm": 56,
+    "inicio": "2026-11-18T21:18:22.595-03:00",
+    "amostras": 72000000,
+    "duracao_real_s": 30.041
+  },
+  "modulacao": "OOK (rampa)",
+  "rb_bps": 10000.0,
+  "formato_quadro": "referencia",
+  "duracao_s": 30.0,
+  "fracao_saturada": 0.0,
+  "sps_processamento": 8,
+  "limiar_sincronismo": 0.6,
+  "receptor": {
+    "candidatos": 1312,
+    "crc_invalido": 3,
+    "validos": 1308,
+    "duplicados": 0
+  },
+  "quadros_validos": 1308,
+  "tempo_processamento_s": {
+    "conversao": 3.62,
+    "deteccao": 0.3
+  },
+  "offset_residual_hz": {
+    "media": 536.1,
+    "desvio": 248.6,
+    "min": 85.9,
+    "max": 1108.1
+  },
+  "rho_medio": 0.998,
+  "payload_bytes": 21,
+  "bits_por_quadro": 229,
+  "periodo_quadro_s": 0.0229,
+  "ciclico": {
+    "quadros_no_intervalo": 1309,
+    "perdidos": 1,
+    "per": 0.0007639419404125286,
+    "goodput_bancada_bps": 7324.8,
+    "goodput_maximo_bps": 7336.2
+  },
+  "payloads_distintos": 1,
+  "mensagem_mais_frequente": "HELLO WORLD MANDRIAUM",
+  "quadros_com_outro_conteudo": 0,
+  "banda": {
+    "banda_99_hz": 93017.578125,
+    "f_inferior_hz": 173437.5,
+    "f_superior_hz": 266455.078125,
+    "janela_hz": 240000.0,
+    "sinal_sobre_ruido_na_janela_db": 10.1
+  }
+}

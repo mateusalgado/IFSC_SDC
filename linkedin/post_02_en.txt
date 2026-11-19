@@ -1,0 +1,9 @@
+Communication Systems Lab 02/09 · Dipole and patch antennas
+
+Antenna dimensions make more sense when expressed in wavelengths.
+
+In this IFSC lab, I compared normalized dipole radiation patterns and calculated four rectangular patch designs. I examined how frequency, substrate permittivity, thickness and feed position affect the results.
+
+The attached report brings together the radiation patterns, calculated dimensions and design comparisons.
+
+#AntennaDesign #RFEngineering #EngineeringEducation

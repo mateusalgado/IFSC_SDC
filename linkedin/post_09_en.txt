@@ -1,0 +1,9 @@
+Communication Systems Lab 09/09 · 16-QAM and decision geometry
+
+16-QAM carries four bits per symbol by varying amplitude and phase.
+
+In this IFSC lab, I examined Gray mapping, correlation, minimum-distance detection and BER. The ideal receiver recovered all 64 bits. At 3 dB, six symbol errors produced seven bit errors because one displacement crossed a diagonal.
+
+The attached report connects those results with constellation geometry, bandwidth and synchronization.
+
+#DigitalCommunications #SignalProcessing #EngineeringEducation

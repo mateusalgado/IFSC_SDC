@@ -1,0 +1,9 @@
+Communication Systems Lab 05/09 · Coherent BFSK
+
+Two carrier frequencies can represent one binary data stream.
+
+In this IFSC lab, I studied BFSK modulation and a receiver with two correlators. Comparing the tones highlighted how spacing, phase consistency and signal energy affect detection.
+
+The attached report includes the recorded results and explains why energy normalization and sample size must be checked before interpreting a BER curve.
+
+#DigitalCommunications #SignalProcessing #EngineeringEducation

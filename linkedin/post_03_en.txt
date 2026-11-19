@@ -1,0 +1,9 @@
+Communication Systems Lab 03/09 · Line coding and cable response
+
+The way bits are encoded changes the signal a channel has to carry.
+
+In this IFSC lab, I compared NRZ, RZ, AMI, Manchester and four-level signaling, then examined a CAT5e channel model. The analysis connected DC content and timing transitions with bandwidth and frequency-dependent attenuation.
+
+The attached report includes the waveforms, spectral comparisons and the assumptions behind the cable simulation.
+
+#SignalProcessing #DigitalCommunications #EngineeringEducation

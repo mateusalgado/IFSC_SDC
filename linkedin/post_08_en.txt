@@ -1,0 +1,9 @@
+Communication Systems Lab 08/09 · 8-PSK and phase margin
+
+Sending more bits per symbol makes phase accuracy increasingly important.
+
+In this IFSC lab, I studied Gray-coded 8-PSK through modulation, Gaussian noise and coherent detection. One received symbol was only 0.71° from a decision boundary. A small increase in noise changed it to a neighboring symbol.
+
+The attached report explores that decision margin, BER and the effect of receiver phase error.
+
+#DigitalCommunications #SignalProcessing #EngineeringEducation

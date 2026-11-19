@@ -1,0 +1,17 @@
+# rtl_rx_ook_v2.py, 2026-11-18T21:24:22-03:00, ppm=86
+Capturing ~0.50 s at 915.000 MHz, gain=30 dB, ppm=86...
+  chunk 1/4 captured
+  chunk 2/4 captured
+  chunk 3/4 captured
+  chunk 4/4 captured
+
+Total samples: 1048576 (~512.0 ms)
+Complex bandpass: +/-10.0 kHz around baseband, numtaps=2705
+Envelope smoothing: cutoff=30.0 kHz, numtaps=903
+
+Sync correlation peak at sample 620603 (t=303.03 ms), strength=83.22
+Preamble levels: high=0.1169, low=0.0233, threshold=0.0701
+Decoded length byte: 00010101 = 21 bytes
+
+Decoded message: 'HELLO WORLD MANDRIAUM'
+CRC-8 received=0x44 computed=0x44 -> OK ✅

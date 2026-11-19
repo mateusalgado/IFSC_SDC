@@ -1,0 +1,9 @@
+Communication Systems Lab 07/09 · QPSK and integration time
+
+Two orthogonal carrier branches allow QPSK to send two bits per symbol.
+
+In this IFSC lab, I followed the signal from bit mapping to I/Q correlation and recovery. At 6 dB, shortening the integration window from 2 ms to 1 ms increased the error count from 7 to 45 in the same 2,000 bits.
+
+The attached report connects this result with discarded signal energy and synchronization.
+
+#DigitalCommunications #SignalProcessing #EngineeringEducation

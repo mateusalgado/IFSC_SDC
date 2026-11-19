@@ -1,0 +1,11 @@
+{
+  "arquivo": "ook_ref_10k_30s.cu8",
+  "fc_hz": 915000000.0,
+  "fs_hz": 2400000.0,
+  "ganho_pedido_db": 30.0,
+  "ganho_db": 29.7,
+  "ppm": 56,
+  "inicio": "2026-11-18T21:18:22.595-03:00",
+  "amostras": 72000000,
+  "duracao_real_s": 30.041
+}

@@ -1,0 +1,17 @@
+# rtl_rx_ook_v2.py, 2026-11-18T21:17:08-03:00, ppm=34 (original)
+Capturing ~0.50 s at 915.000 MHz, gain=30 dB, ppm=34...
+  chunk 1/4 captured
+  chunk 2/4 captured
+  chunk 3/4 captured
+  chunk 4/4 captured
+
+Total samples: 1048576 (~512.0 ms)
+Complex bandpass: +/-10.0 kHz around baseband, numtaps=2705
+Envelope smoothing: cutoff=30.0 kHz, numtaps=903
+
+Sync correlation peak at sample 766319 (t=374.18 ms), strength=23.41
+Preamble levels: high=0.0265, low=0.0208, threshold=0.0237
+Decoded length byte: 00000000 = 0 bytes
+
+Decoded message: ''
+CRC-8 received=0x7f computed=0x00 -> MISMATCH ❌

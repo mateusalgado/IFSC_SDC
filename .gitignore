@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS e editores
+.DS_Store
+._*
+*.swp
+*.tmp
+*.bak
+
+# Configuração local do Claude Code (caminhos desta máquina)
+.claude/settings.local.json
+
+# Projeto final SDR: capturas IQ brutas (centenas de MB) e pacote derivado do transmissor
+*.cu8
+tx_kit_pluto.zip

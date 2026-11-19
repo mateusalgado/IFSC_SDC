@@ -1,0 +1,9 @@
+Communication Systems Lab 04/09 · Coherent BASK
+
+How does a receiver distinguish an on-off carrier from noise?
+
+This IFSC lab explored binary amplitude-shift keying, coherent correlation and a midpoint decision threshold. I also reviewed how the definitions of bit energy and noise variance affect a BER comparison.
+
+The attached report covers the waveform, spectrum and the normalization limitation identified in the recorded error-rate results.
+
+#DigitalCommunications #SignalProcessing #EngineeringEducation

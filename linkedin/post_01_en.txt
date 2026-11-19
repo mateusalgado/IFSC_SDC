@@ -1,0 +1,9 @@
+Communication Systems Lab 01/09 · Wireless link budgets
+
+What changes when a Wi-Fi link moves from 1 to 54 Mbit/s?
+
+In this communication systems lab at IFSC, I used ESP32 datasheet parameters to compare free-space and indoor propagation models. The two modes differ by 27.5 dB in available path-loss budget.
+
+The exercise helped me connect data rate, receiver sensitivity and propagation assumptions. The attached report explains the calculations and the limits of the range estimates.
+
+#WirelessCommunications #RFEngineering #EngineeringEducation

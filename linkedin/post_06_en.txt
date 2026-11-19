@@ -1,0 +1,9 @@
+Communication Systems Lab 06/09 · Coherent BPSK
+
+A 180° phase reversal is enough to carry a binary decision.
+
+In this IFSC lab, I studied BPSK modulation, coherent correlation and performance in Gaussian noise. The receiver recovered the ideal sequence, while the recorded BER decreased as Eb/N₀ increased.
+
+The attached report also discusses finite-sample uncertainty and the difference between a pulse-spectrum main lobe and occupied bandwidth.
+
+#DigitalCommunications #SignalProcessing #EngineeringEducation

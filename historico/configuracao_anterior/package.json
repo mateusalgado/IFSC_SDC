@@ -1,0 +1,12 @@
+{
+  "name": "sdc",
+  "version": "1.0.0",
+  "description": "Repositório de material e atividades da disciplina Sistemas de Comunicação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

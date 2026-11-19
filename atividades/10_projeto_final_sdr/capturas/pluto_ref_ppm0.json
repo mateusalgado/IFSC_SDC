@@ -1,0 +1,11 @@
+{
+  "arquivo": "pluto_ref_ppm0.cu8",
+  "fc_hz": 915000000.0,
+  "fs_hz": 2400000.0,
+  "ganho_pedido_db": 30.0,
+  "ganho_db": 29.7,
+  "ppm": 0,
+  "inicio": "2026-11-18T21:13:04.249-03:00",
+  "amostras": 9600000,
+  "duracao_real_s": 4.047
+}
